@@ -1,0 +1,46 @@
+===============================================================
+
+Instruction? 
+Put page table for PID 0 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+
+===============================================================
+
+Instruction? 
+
+Stored value 30 at virtual address 12 (physical address 28)
+
+===============================================================
+
+Instruction? 
+
+The value 30 is at virtual address 12 (physical address 28)
+
+===============================================================
+
+Instruction? 
+
+ERROR: 5 is an Invalid Process ID.
+
+===============================================================
+
+Instruction? 
+
+ERROR: lod is an Invalid Instruction.
+
+===============================================================
+
+Instruction? 
+
+ERROR: -1 is an Invalid Virtual Address.
+
+===============================================================
+
+Instruction? 
+
+ERROR: -1 is an Invalid Value.
+
+===============================================================
+
+Instruction? End of file.
+

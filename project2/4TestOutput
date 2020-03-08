@@ -1,0 +1,68 @@
+===============================================================
+
+Instruction? 
+Put page table for PID 0 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+
+===============================================================
+
+Instruction? 
+
+ERROR: Virtual address 7 is not writeable
+
+===============================================================
+
+Instruction? 
+Updating permissions for virtual page 0 (frame 1)
+
+===============================================================
+
+Instruction? 
+
+Stored value 255 at virtual address 7 (physical address 23)
+
+===============================================================
+
+Instruction? 
+
+The value 255 is at virtual address 7 (physical address 23)
+
+===============================================================
+
+Instruction? 
+
+The value 255 is at virtual address 7 (physical address 23)
+
+===============================================================
+
+Instruction? 
+ERROR: virtual page 0 is already mapped with rw_bit=1
+
+===============================================================
+
+Instruction? 
+Mapped virtual address 16 (page 1) into physical frame 2
+
+===============================================================
+
+Instruction? 
+Mapped virtual address 32 (page 2) into physical frame 3
+
+===============================================================
+
+Instruction? 
+Swapped frame 1 to disk at swap slot 0
+Put page table for PID 1 into physical frame 1
+Swapped frame 2 to disk at swap slot 1
+Mapped virtual address 0 (page 0) into physical frame 2
+
+===============================================================
+
+Instruction? 
+
+ERROR: No value stored at virtual address 7 (physical address 23)
+
+===============================================================
+
+Instruction? End of file.
+

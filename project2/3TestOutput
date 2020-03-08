@@ -1,0 +1,38 @@
+===============================================================
+
+Instruction? 
+Put page table for PID 0 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+
+===============================================================
+
+Instruction? 
+ERROR: virtual page 0 is already mapped with rw_bit=1
+
+===============================================================
+
+Instruction? 
+Mapped virtual address 50 (page 3) into physical frame 2
+
+===============================================================
+
+Instruction? 
+
+Stored value 100 at virtual address 9 (physical address 25)
+
+===============================================================
+
+Instruction? 
+
+The value 100 is at virtual address 9 (physical address 25)
+
+===============================================================
+
+Instruction? 
+
+ERROR: No value stored at virtual address 60 (physical address 44)
+
+===============================================================
+
+Instruction? End of file.
+

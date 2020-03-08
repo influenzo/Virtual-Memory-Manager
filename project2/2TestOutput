@@ -1,0 +1,28 @@
+===============================================================
+
+Instruction? 
+Put page table for PID 1 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+
+===============================================================
+
+Instruction? 
+
+ERROR: Virtual address 5 is not writeable
+
+===============================================================
+
+Instruction? 
+
+Stored value 10 at virtual address 5 (physical address 21)
+
+===============================================================
+
+Instruction? 
+
+The value 10 is at virtual address 5 (physical address 21)
+
+===============================================================
+
+Instruction? End of file.
+
